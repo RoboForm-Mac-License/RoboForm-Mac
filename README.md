@@ -1,6 +1,6 @@
 # RoboForm Premium License
 
-<img src="https://static.macupdate.com/products/50516/l/roboform-logo.png?v=1667486119" width="200" alt="App icon" align="left"/>
+<img src="https://play-lh.googleusercontent.com/LrL4S9klM7FyvyQqPce6KU3zppK88260St8xMcjNaIAgGu27iIBbvJVvY6C7Vp1_ynzFuQ43OoL-h5MFOmwf" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>RoboForm for macOS</h3>
